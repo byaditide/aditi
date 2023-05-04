@@ -65,7 +65,8 @@ img {
     align-items: center;
     justify-content: space-between;
     width: 100%;
-    background-color: #ffffff;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 .flex-row {
@@ -201,15 +202,18 @@ form {
 }
 
 .section-hywz4 {
-    background-color: #ffffff;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 .section-3mbj5 {
-    background-color: #ffffff;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 .footer-7jln2 {
-    background-color: #ffffff;
+    background-color: #000000;
+    color: #ffffff;
 }
 
 @media (max-width: 768px) {
