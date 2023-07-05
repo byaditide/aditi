@@ -1,65 +1,27 @@
 body {
     background-color: white;
-    color: black; 
-    font-family: 'Inter', sans-serif;
-}
-
-header {
-    display: flex;
-    justify-content: space-between;
-    padding: 20px;
-}
-
-#name {
+    color: rgb(17, 0, 255);
     font-size: 18px;
-    font-weight: bold;
+    margin: 0px 0px 0px 40px;
 }
 
-#subscribe {
-    padding: 5px 15px;
-    background-color: rgb(0, 0, 0);
-    color: white;
-    border: none;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-    border-radius: 10px;
-    font-size: 12px;
+#logo {
+    margin: 200px 0px 0px 0px;
+    width: 100px;
+    height: 40px;
+    color: rgb(255, 0, 0);
 }
 
-#subscribe:hover {
-    background-color: #ffffff;
-    color: black;
+p {
+    margin: 0;
+    padding: 0;
 }
 
-#bio {
-    margin: 20px;
+a {
+    text-decoration: underline;
+    color: rgb(255, 0, 0);
 }
 
-#writings {
-    margin: 20px;
-}
-
-#writings ul {
-    list-style-type: none;
-}
-
-#writings ul li a {
-    text-decoration: none;
-    color: black;
-}
-
-footer {
-    padding: 20px;
-    display: flex;
-    justify-content: space-between;
-}
-
-footer a {
-    margin-right: 10px;
-    text-decoration: none;
-    color: black;
-}
-
-#copyright {
-    text-align: right;
+a:hover {
+    color: blue;
 }
