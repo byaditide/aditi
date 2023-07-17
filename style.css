@@ -1,7 +1,7 @@
 body {
     font-family: 'Schibsted Grotesk', sans-serif;
-    background-color: white;
-    color: rgb(17, 0, 255);
+    background-color: #002B36;
+    color: #657b83;
     font-size: 18px;
     margin: 0px 0px 0px 200px;
 }
@@ -10,7 +10,7 @@ body {
     margin: 200px 0px 0px 0px;
     width: 100px;
     height: 40px;
-    color: rgb(255, 0, 0);
+    color: #cb4b16;
 }
 
 p {
@@ -20,11 +20,11 @@ p {
 
 a {
     text-decoration: underline;
-    color: rgb(255, 0, 0);
+    color: #268bd2;
 }
 
 a:hover {
-    color: blue;
+    color: #cb4b16;
 }
 
 /* Responsive adjustments */
